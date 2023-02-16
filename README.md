@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @koutnyt
-- 👀 I’m interested in cloud technology, IoT and big data
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in python, javascript, fullstack
+<!--- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...-->
 
 <!---
 koutnyt/koutnyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
