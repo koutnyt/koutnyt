@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koutnyt
 - 👀 I’m interested in fullstack
-- fun of tailwind, react, django, fastapi 
+- fun of tailwind, react, fastapi and django 
 <!--- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
